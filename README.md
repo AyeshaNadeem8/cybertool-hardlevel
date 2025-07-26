@@ -1,4 +1,4 @@
-echo '# 🔐 Cybertools – Red Team Essentials
+🔐 Cybertools – Red Team Essentials
 
 A curated collection of intermediate to advanced cybersecurity tools and documentation, tailored for ethical hackers, penetration testers, and cybersecurity learners. Each guide offers practical steps and real-world examples to master the art of cyber investigations.
 
